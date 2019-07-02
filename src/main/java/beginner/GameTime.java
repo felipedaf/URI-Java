@@ -17,6 +17,7 @@ public class GameTime {
 		
 		System.out.println(String.format("O JOGO DUROU %d HORA(S)", time));
 
+		
 	}
 
 }
